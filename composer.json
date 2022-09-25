@@ -8,9 +8,9 @@
         "php": "^8.0.2",
         "codingyu/ueditor": "*",
         "encore/laravel-admin": "^1.8",
-        "guzzlehttp/guzzle": "^7.2",
+        "guzzlehttp/guzzle": "^7.0.1",
         "laravel-admin-ext/api-tester": "^1.0",
-        "laravel/framework": "^9.19",
+        "laravel/framework": "^8.0",
         "laravel/passport": "^11.0",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7"
@@ -20,8 +20,8 @@
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.4",
-        "nunomaduro/collision": "^6.1",
-        "phpunit/phpunit": "^9.5.10",
+        "nunomaduro/collision": "^5.0",
+        "phpunit/phpunit": "^9.0",
         "spatie/laravel-ignition": "^1.0"
     },
     "autoload": {
